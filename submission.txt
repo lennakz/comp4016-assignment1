@@ -1,4 +1,4 @@
-Repository: https://github.com/lennakz/comp4016/assignment1
+Repository: https://github.com/lennakz/comp4016-assignment1
 Image: lennakz/assignment1:1.0.0  (docker pull lennakz/assignment1:1.0.0)
 Command: docker run -p 8080:8080 lennakz/assignment1:1.0.0
 Comments: All endpoints expect localhost:8080.
